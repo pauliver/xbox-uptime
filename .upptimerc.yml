@@ -6,11 +6,11 @@ repo: xbox-uptime # Your GitHub repository name
 sites:
   - name: Microsoft Docs
     url: https://developer.microsoft.com/en-us/
-  - name: Xbox Partner Docs
+  - name: Partner Docs
     url: https://developer.microsoft.com/en-us/games/xbox/partner/
-  - name: XBox Live Forums
+  - name: Forums
     url: https://forums.xboxlive.com/index.html
-  - name: Xbox Partner Docs
+  - name: Download Center
     url: https://www.microsoft.com/en-us/software-download/gdk#section_GameCore
 
 
