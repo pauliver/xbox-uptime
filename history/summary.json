@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 139,
-    "timeWeek": 349,
-    "timeMonth": 330,
-    "timeYear": 330,
+    "time": 326,
+    "timeDay": 284,
+    "timeWeek": 345,
+    "timeMonth": 326,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 721,
+    "time": 508,
+    "timeDay": 413,
     "timeWeek": 482,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/forums.xboxlive.com",
     "slug": "forums",
     "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "86.56%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
-    "time": 229,
-    "timeDay": 261,
-    "timeWeek": 256,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "uptime": "96.14%",
+    "uptimeDay": "68.11%",
+    "uptimeWeek": "95.44%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "96.14%",
+    "time": 235,
+    "timeDay": 301,
+    "timeWeek": 258,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2021-02-20": 194
+      "2021-02-21": 22,
+      "2021-02-20": 437
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 839,
-    "timeDay": 913,
-    "timeWeek": 879,
-    "timeMonth": 839,
-    "timeYear": 839,
+    "time": 858,
+    "timeDay": 1054,
+    "timeWeek": 901,
+    "timeMonth": 858,
+    "timeYear": 858,
     "dailyMinutesDown": {}
   }
 ]
