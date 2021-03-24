@@ -14,6 +14,10 @@ sites:
     url: https://forums.xboxlive.com/index.html
   - name: Download Center
     url: https://www.microsoft.com/en-us/software-download/gdk#section_GameCore
+  - name: xbox game landing
+    url: https://docs.microsoft.com/en-us/gaming/xbox/
+  - name: redirector for xHub
+    url: https://aka.ms/xhub
 
 
 status-website:
