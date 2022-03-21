@@ -1,7 +1,7 @@
 url: https://developer.microsoft.com/en-us/games/xbox/partner/
-status: up
-code: 200
-responseTime: 818
-lastUpdated: 2022-03-20T23:05:15.957Z
+status: down
+code: 503
+responseTime: 1777
+lastUpdated: 2022-03-21T19:16:17.003Z
 startTime: Fri Feb 12 2021 18:22:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
