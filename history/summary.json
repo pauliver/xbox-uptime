@@ -112,17 +112,17 @@
     "url": "https://aka.ms/xhub",
     "icon": "https://favicons.githubusercontent.com/aka.ms",
     "slug": "redirector-for-x-hub",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 469,
-    "timeWeek": 444,
-    "timeMonth": 412,
-    "timeYear": 484,
+    "time": 492,
+    "timeDay": 296,
+    "timeWeek": 403,
+    "timeMonth": 403,
+    "timeYear": 483,
     "dailyMinutesDown": {}
   }
 ]
